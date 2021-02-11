@@ -1,2 +1,2 @@
 # criptografia-php
-Testando criptografia de dados com PHP
+Criptografia de dados utilizando a função openssl_encrypt()
